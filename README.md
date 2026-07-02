@@ -163,4 +163,5 @@ Full-stack task management platform with DevOps integration.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PRADEEPMK06&theme=radical)
 
 ### 🚀 My LeetCode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/pradeepMK?theme=dark&font=IBM%20Plex%20Sans&show_icons=true)](https://leetcode.com/u/pradeepMK/)
+### 📈 My Competitive Programming
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=pradeepMK&theme=tokyonight)](https://leetcode.com/u/pradeepMK/)
