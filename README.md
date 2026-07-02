@@ -158,3 +158,8 @@ Full-stack task management platform with DevOps integration.
 ### ⚡ Motto
 
 "Automate Everything. Monitor Everything. Improve Continuously."
+
+### 🏆 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PRADEEPMK06&theme=radical)
+
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=PRADEEPMK06)](https://github.com/ryo-ma/github-profile-trophy)
