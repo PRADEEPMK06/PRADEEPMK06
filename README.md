@@ -148,10 +148,10 @@ Full-stack task management platform with DevOps integration.
 
 ## 📫 Connect With Me
 
-* LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/pradeepmk17/)
-* GitHub: [https://github.com/YOUR-GITHUB](https://github.com/PRADEEPMK06)
-* LeetCode: [https://leetcode.com/YOUR-USERNAME](https://leetcode.com/u/pradeepMK/)
-* Email: [pradeepmk799@gmail.com](mailto:pradeepmk799@gmail.com)
+* LinkedIn: [Click here.](https://www.linkedin.com/in/pradeepmk17/)
+* GitHub: [Click here.](https://github.com/PRADEEPMK06)
+* LeetCode: [Click here.](https://leetcode.com/u/pradeepMK/)
+* Email: [Click here.](mailto:pradeepmk799@gmail.com)
 
 ---
 
