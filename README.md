@@ -61,6 +61,16 @@ Pre-final-year B.Tech Information Technology student passionate about DevOps, Cl
 
 ---
 
+
+### 🏆 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PRADEEPMK06&theme=radical)
+
+### 🚀 My LeetCode Stats
+### 📈 My Competitive Programming
+[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=pradeepMK&theme=tokyonight)](https://leetcode.com/u/pradeepMK/)
+
+---
+
 ## 🏆 Achievements
 
 * Solved 316+ DSA problems on LeetCode
@@ -95,10 +105,3 @@ Pre-final-year B.Tech Information Technology student passionate about DevOps, Cl
 ### ⚡ Motto
 
 "Automate Everything. Monitor Everything. Improve Continuously."
-
-### 🏆 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PRADEEPMK06&theme=radical)
-
-### 🚀 My LeetCode Stats
-### 📈 My Competitive Programming
-[![LeetCode Stats](https://www.readmecodegen.com/api/leetcode-stats?username=pradeepMK&theme=tokyonight)](https://leetcode.com/u/pradeepMK/)
